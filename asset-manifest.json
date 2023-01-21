@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-thesaurus/static/css/main.b55b00ea.css",
+    "main.js": "/react-thesaurus/static/js/main.80237fbc.js",
+    "index.html": "/react-thesaurus/index.html",
+    "main.b55b00ea.css.map": "/react-thesaurus/static/css/main.b55b00ea.css.map",
+    "main.80237fbc.js.map": "/react-thesaurus/static/js/main.80237fbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b55b00ea.css",
+    "static/js/main.80237fbc.js"
+  ]
+}
